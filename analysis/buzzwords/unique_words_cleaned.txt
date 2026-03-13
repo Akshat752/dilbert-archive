@@ -2378,7 +2378,7 @@ casually
 casualty
 cat
 cat-5
-cat5
+cat6
 catalog
 catalogued
 catapult

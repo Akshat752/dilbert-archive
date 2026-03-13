@@ -198,7 +198,7 @@ accuser
 accuses
 accusing
 ach-itz-you
-ach000
+achooo
 ache
 achey
 achievable
@@ -434,7 +434,7 @@ ah-wooo
 aha
 ahaa
 ahat
-ahch000
+ahchooo
 ahead
 ahem
 ahh
@@ -1287,8 +1287,7 @@ b''
 b'tang
 b-a-a-a-d
 b-budget
-b0000
-b055
+boooo
 b8
 b9
 ba
@@ -1557,7 +1556,7 @@ bedraggled
 bedroom
 bedtime
 bee
-bee-00-tiful
+bee-oo-tiful
 beeep
 beef
 beef-eating
@@ -2054,7 +2053,6 @@ borrowing
 boson
 boss
 boss'
-boss'5
 boss's
 boss-
 bossbot
@@ -2782,7 +2780,7 @@ casualty
 cat
 cat's
 cat-5
-cat5
+cat6
 catalog
 catalogued
 catapult
@@ -4428,13 +4426,10 @@ d
 d'oeuvres
 d'utox
 d-
-d-00
 d-32
-d-4
 d-bag
 d-channel
 d-chip
-d-da
 d-print
 d-rendering
 d-uhh
@@ -4540,7 +4535,6 @@ daz
 daze
 dazzling
 db
-ddamattan
 de
 de-
 de-e-elicious
@@ -6710,7 +6704,6 @@ f
 f-4
 f-e-e-e-ling
 f1
-f5ssy
 fa
 fable
 fabric
@@ -8596,7 +8589,6 @@ hawk
 hawking
 hawthnort
 hay
-hay-5005
 hay-soos
 hazard
 hazardous
@@ -8708,12 +8700,12 @@ helicopters
 helium
 helix
 hell
-hell-0-0-0
+hell-o-o-o
 hellhole
 hellness
 hello
-hello-0-0
-hello-0-0-0
+hello-o-o
+hello-o-o-o
 hello-o-o
 hellscape
 helmet
@@ -9221,7 +9213,6 @@ i-
 i-i-i-i
 i-yi-yi
 i/
-i5
 iadyc
 ibere
 ibm
@@ -9290,13 +9281,10 @@ ignore
 ignored
 ignores
 ignoring
-ihad
 ii
 iieee
 iii
 iii-
-il/
-ilike
 ill
 ill-advised
 ill-conceived
@@ -10023,7 +10011,6 @@ issuing
 istantiti
 isthe
 it
-it'5
 it'll
 it's
 it-
@@ -10917,7 +10904,6 @@ lizard-people
 lizards
 ll
 lll
-llll
 lmirsl
 lo
 lo-0-
@@ -12330,9 +12316,9 @@ n'
 n's
 n-n-
 n/
-n0-000
-n00-0-0
-n000-0-0
+no-ooo
+noo-o-o
+nooo-o-o
 n0000
 n00000
 n1/
@@ -12596,8 +12582,8 @@ nitwits
 nn
 no
 no-
-no-0-0
-no-0-0-0
+no-o-o
+no-o-o-o
 no-baby
 no-brainer
 no-click
@@ -12610,8 +12596,8 @@ no-pants
 no-rabies
 no-slave
 no-win
-no00
-no000
+nooo
+noooo
 noah
 noah's
 nobba
@@ -13412,7 +13398,6 @@ p-p-p-urrr
 p-please
 p/e
 p/u
-p55st
 pa
 pace
 paced
@@ -16863,7 +16848,7 @@ shaver
 shaving
 shavings
 she
-she'5
+SHE'S
 she'd
 she'll
 she's
@@ -17879,7 +17864,6 @@ squishy
 sricity
 ssh
 ssss
-sssss555s
 ssstoop
 st
 stab
