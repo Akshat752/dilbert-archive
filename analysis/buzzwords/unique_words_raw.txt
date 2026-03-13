@@ -12319,9 +12319,6 @@ n/
 no-ooo
 noo-o-o
 nooo-o-o
-n0000
-n00000
-n1/
 nagging
 nah
 nail
@@ -16225,7 +16222,6 @@ ruthless
 ryan
 s
 s-12
-s00n
 sa
 sabbatical
 sabers
@@ -17459,8 +17455,6 @@ so
 so'
 so's
 so-
-so-0-0
-so-00
 so-called
 soak
 soaked
