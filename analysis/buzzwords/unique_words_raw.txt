@@ -8,9 +8,6 @@ a-b
 a-half
 a-l-e
 a-lifetime
-a00
-a2
-a63
 aa
 aa-aa
 aaa
@@ -19,6 +16,7 @@ aaaagh
 aaaah
 aaaarg
 aaaargh
+aaachoo
 aaachood
 aaack
 aaaee
@@ -91,7 +89,6 @@ abomination
 abominations
 abort
 aboud
-abousuppliers
 about
 above
 aboveground
@@ -156,7 +153,6 @@ accidents
 acclaim
 acclimate
 acco
-accom
 accommodate
 accommodates
 accommodations
@@ -198,7 +194,6 @@ accuser
 accuses
 accusing
 ach-itz-you
-achooo
 ache
 achey
 achievable
@@ -209,6 +204,7 @@ achievements
 achievers
 achieves
 achieving
+achooo
 acid
 ack
 ackman
@@ -282,7 +278,7 @@ addressing
 adds
 adequate
 adequately
-adhave
+I'D HAVE
 adhd
 adhere
 adhesives
@@ -403,7 +399,7 @@ agency
 agency's
 agenda
 agendas
-agengy
+AGENCY
 agent
 agents
 ages
@@ -476,11 +472,9 @@ aisle
 aisles
 ait
 aiti
-aivalysis
+analysis
 aj
-ajems
 al
-alaband
 alamo
 alams
 alan
@@ -826,11 +820,9 @@ apart
 apartment
 apathetic
 apathy
-aphotocopy
 apiece
 apocalypse
 apollo
-apologile
 apologize
 apology
 app
@@ -899,7 +891,7 @@ apricot
 april
 apron
 apropriate
-aproval
+approval
 aptitude
 aquarium
 aquariums
@@ -1283,11 +1275,9 @@ aye-aye
 aye-yi-
 ayowaa
 b
-b''
 b'tang
 b-a-a-a-d
 b-budget
-boooo
 b8
 b9
 ba
@@ -1361,7 +1351,6 @@ bagged
 baggins
 bags
 bah
-bahii
 bail
 bailiff
 bailing
@@ -1537,7 +1526,6 @@ beaten-down
 beating
 beatings
 beats
-beauti-
 beautiful
 beauty
 beaver
@@ -2020,6 +2008,7 @@ boom
 boomers
 booming
 boondoggle
+boooo
 boop
 boopita
 boost
@@ -2261,7 +2250,7 @@ broken
 broker
 brokerage
 brokers
-brolker
+BROWSER
 brolly
 bronchitis
 bronco
@@ -2475,6 +2464,7 @@ buttons
 butts
 buwaha
 buwaha-
+buwaha-haha
 buwahaha
 buwahahaha
 buwha-
@@ -2514,10 +2504,10 @@ bystanders
 byte
 bytecode
 bytes
-bzz22
 bzzeep
 bzzz
 bzzzt
+bzzzz
 bzzzzp
 bzzzzzz
 bzzzzzzpp
@@ -2545,7 +2535,6 @@ cables
 caboose
 cache
 cactus
-cad
 cadaver
 caddying
 caesar
@@ -2897,7 +2886,6 @@ certpt
 cerulean
 cervically
 cesspool
-cet
 cetera
 cfo
 ch
@@ -3249,7 +3237,6 @@ clerical
 clerk
 clever
 cleverly
-cliberal
 clicalit
 clicctc
 cliches
@@ -4131,6 +4118,7 @@ cramps
 crane
 cranium
 crank
+cranked
 cranky
 crap
 crapital
@@ -4561,7 +4549,6 @@ deal-breakers
 dealer
 dealing
 deals
-deany
 dear
 dearest
 dearly
@@ -4739,7 +4726,6 @@ deinstall
 deities
 deity
 del
-del-
 delay
 delayed
 delaying
@@ -4747,12 +4733,12 @@ delays
 delegate
 delegated
 delegating
+delegation
 delegator
 delete
 deleted
 deletes
 deleting
-delgert
 deliberated
 deliberately
 deliberation
@@ -5515,7 +5501,6 @@ donut
 donut-
 donuts
 donutse
-doo-deo
 doodle
 doodles
 doofus
@@ -5831,7 +5816,6 @@ e-engineering
 e-mail
 e-mc-
 e473
-e665
 e947
 each
 eager
@@ -5935,7 +5919,7 @@ education
 educational
 edward
 ee
-ee-yi-ee-
+ee-yi-ee-yi-moo
 ee-yo
 eee
 eee-yah
@@ -5964,7 +5948,6 @@ efforts
 ega
 egaaa
 egad
-egation
 egg
 egg-shaped
 egghead
@@ -6140,6 +6123,7 @@ empty-looking
 emptying
 emu
 enable
+enamuh
 encapsulation
 encase
 encased
@@ -6291,7 +6275,6 @@ eon
 eons
 eoowaha
 eor
-eoutpmentiuh-oh
 eoweoowah
 ephemeral
 epic
@@ -6749,7 +6732,7 @@ fading
 fads
 fagress
 fahrenheit
-fahrvergngen
+fahrvergn
 fail
 failed
 failer
@@ -7706,7 +7689,7 @@ gadget
 gadgets
 gaffer
 gag
-gage
+gags
 gah
 gah-boogah
 gain
@@ -8307,7 +8290,7 @@ guilt
 guilty
 guilty-
 guitar
-gullibil-
+gullibil-ity
 gullibility
 gullible
 gulp
@@ -8367,7 +8350,6 @@ hackers
 hacking
 hackneyed
 had
-hada
 hadean
 hadn
 hadn't
@@ -8382,7 +8364,6 @@ hahahaha
 hai
 hail
 hailed
-hails
 hair
 hairball
 hairballs
@@ -8706,7 +8687,6 @@ hellness
 hello
 hello-o-o
 hello-o-o-o
-hello-o-o
 hellscape
 helmet
 helmet-haired
@@ -9058,7 +9038,7 @@ hovers
 how
 how'd
 how's
-how-00000
+how-ooooo
 howard
 howdy
 however
@@ -9212,9 +9192,7 @@ i've
 i-
 i-i-i-i
 i-yi-yi
-i/
 iadyc
-ibere
 ibm
 ibm's
 ically
@@ -9304,7 +9282,6 @@ illusions
 illustrate
 illustration
 im
-im-m-/
 ima
 image
 imagery
@@ -10250,6 +10227,7 @@ kalah
 kaloo-
 kangaroo
 kangaroos
+kapow
 karaoke
 karate
 karen
@@ -10429,7 +10407,6 @@ kyoto
 l
 l-
 l-u-s-e-r
-l/
 la
 la-
 la-la
@@ -10906,7 +10883,7 @@ ll
 lll
 lmirsl
 lo
-lo-0-
+lo-o-o-ser
 load
 loaded
 loading
@@ -11022,6 +10999,7 @@ losses
 lost
 lost-and-
 lot
+lot's
 lotht
 lotion
 lots
@@ -11101,7 +11079,6 @@ lumping
 lunch
 luncheon
 lunches
-lunchi
 lunchtime
 lung
 lunge
@@ -11919,6 +11896,7 @@ mm
 mm-guh-muh
 mm-guwung-
 mm-mean
+mm-mm
 mmb
 mmm
 mmm-
@@ -12314,11 +12292,7 @@ mywork
 n
 n'
 n's
-n-n-
-n/
-no-ooo
-noo-o-o
-nooo-o-o
+n-n-no
 nagging
 nah
 nail
@@ -12519,7 +12493,6 @@ next
 ng
 nhoa
 ni
-ni/
 niad
 nibble
 nical
@@ -12579,8 +12552,6 @@ nitwits
 nn
 no
 no-
-no-o-o
-no-o-o-o
 no-baby
 no-brainer
 no-click
@@ -12589,12 +12560,12 @@ no-go
 no-ish
 no-load
 no-o-o
+no-o-o-o
+no-ooo
 no-pants
 no-rabies
 no-slave
 no-win
-nooo
-noooo
 noah
 noah's
 nobba
@@ -12650,6 +12621,7 @@ non-manage-
 non-monetary
 non-player
 non-refund-
+non-standard-ization
 non-stem
 non-stereotypical
 non-work
@@ -12677,12 +12649,12 @@ nonsmoker
 nonsmokers
 nonsmoking
 nonstandard
-nonstandard-
 nonstop
 nontechnical
 nonviolent
 nonzero
 noo
+noo-o-o
 noobah
 noober
 noodle-sized
@@ -12690,7 +12662,10 @@ nooey
 noon
 noons
 nooo
+nooo-o-o
 noooo
+nooooo
+noooooooo
 nope
 nor
 noriko
@@ -12807,10 +12782,8 @@ o'briens'
 o'clock
 o'dendron
 o'er
-o-ser
+o-o-oh
 o-word
-o000
-o02
 oaf
 oath
 oatmeal
@@ -13110,7 +13083,6 @@ oppressive
 oppressiveness
 oppressor
 oprah
-ops
 opt
 optic
 optical
@@ -14150,7 +14122,6 @@ pliers
 plight
 plink
 plished
-plishing
 plod
 plootash
 plop
@@ -15062,7 +15033,6 @@ rabies
 raccoon
 race
 racehorse
-rachoo
 racing
 racism
 racist
@@ -15255,7 +15225,6 @@ really
 realm
 realms
 reamed
-reanima
 reanimate
 reanimated
 reap
@@ -16236,7 +16205,6 @@ sacrificed
 sacrificial
 sacrificing
 sad
-sadams
 saddest
 saddle
 saddles
@@ -16337,7 +16305,6 @@ satan's
 satellite
 satellites
 sation
-satisfac
 satisfaction
 satisfied
 satisfy
@@ -16844,7 +16811,6 @@ shaver
 shaving
 shavings
 she
-SHE'S
 she'd
 she'll
 she's
@@ -17456,6 +17422,8 @@ so'
 so's
 so-
 so-called
+so-o-o
+so-oo
 soak
 soaked
 soap
@@ -17858,6 +17826,7 @@ squishy
 sricity
 ssh
 ssss
+sssssssss
 ssstoop
 st
 stab
@@ -18633,13 +18602,10 @@ systems
 t
 t'll
 t's
-t've
 t-1
 t-rex
 t-shirt
 t-shirts
-t5
-ta
 ta-da
 tab
 table
@@ -18670,6 +18636,7 @@ tah-to
 tahiti
 tai
 tail
+tailband
 tailbone
 tailgate
 tailors
@@ -18707,7 +18674,6 @@ tally
 tampered
 tan
 tandem
-tang
 tangerine
 tangible
 tangle
@@ -19096,7 +19062,6 @@ thirty-six
 this
 this'd
 this-and-that
-thlokel
 thomas
 thong
 thoop
@@ -19916,7 +19881,6 @@ umm
 ummm
 un
 un-
-un-hum
 unable
 unabomber's
 unacceptable
@@ -20698,7 +20662,7 @@ voyager
 vp
 vp's
 vr
-vro000m
+vroooom
 vs
 vsadd
 vulcan
@@ -20708,7 +20672,6 @@ vulnerable
 w
 w-1
 w-al
-w0000000000
 wa-ha
 wa-ha-ha
 wa-ha-ya-yi
@@ -21136,7 +21099,6 @@ whom
 whomp
 whoo
 whoo-
-whoo/
 whoopee
 whoops
 whose
@@ -21343,6 +21305,7 @@ wool
 wool-coated
 wool-covered
 wooo
+woooooooooo
 woot
 woot-woot
 wooten
@@ -21471,6 +21434,7 @@ wrongs
 wrote
 wsdl
 wtl
+wuh
 wuhap
 wuhk
 wulf
@@ -21507,10 +21471,7 @@ xr35
 xrp
 xypon
 y
-y'aarchoon
-y're
 y-
-y1-moo
 y2k
 ya
 yaaa
@@ -21625,7 +21586,6 @@ you
 you'
 you'd
 you'll
-you'llrealize
 you're
 you'rea
 you'rein
@@ -21655,6 +21615,7 @@ youtube
 youve
 yow
 yre
+yteicos
 ything
 yuck
 yugi
