@@ -11,7 +11,7 @@ a-lifetime
 aa
 aa-aa
 aaa
-aaaaaeell
+AAAAAEEII
 aaaagh
 aaaah
 aaaarg
@@ -2241,7 +2241,7 @@ broadening
 broadens
 broadway
 broccoli
-broccoll
+broccoli
 brochure
 brochures
 brokaw
@@ -2555,7 +2555,7 @@ calculating
 calculation
 calculations
 calculator
-caleme
+call me 
 calendar
 calendars
 calf
@@ -2576,7 +2576,7 @@ calm
 calms
 calorie
 calories
-calso
+(also
 calvin
 cam
 camaraderie
@@ -2973,7 +2973,7 @@ chatt
 chatter
 chatting
 chatty
-chck
+CHECK!
 chd
 cheap
 cheapen
@@ -3237,7 +3237,7 @@ clerical
 clerk
 clever
 cleverly
-clicalit
+CLICKETY
 clicctc
 cliches
 clichs
@@ -4028,7 +4028,7 @@ coughed
 coughing
 could
 couldn't
-coulo
+COULD
 council
 counsel
 counseling
@@ -9418,7 +9418,7 @@ inag
 inane
 inanimate
 inappropriate
-inapropriate
+inappropriate
 inate
 inattentive
 inattentiveness
@@ -16128,7 +16128,7 @@ rrumble
 rsum
 rsume
 rsumes
-rsums
+RESUMES
 rub
 rubbed
 rubber
