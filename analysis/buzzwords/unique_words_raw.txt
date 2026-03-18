@@ -11,7 +11,7 @@ a-lifetime
 aa
 aa-aa
 aaa
-AAAAAEEII
+aaaaaeeii
 aaaagh
 aaaah
 aaaarg
@@ -130,7 +130,6 @@ ac
 ac-
 academic
 academy
-accamdi
 accelerate
 accelerated
 accelerator
@@ -195,7 +194,6 @@ accuses
 accusing
 ach-itz-you
 ache
-achey
 achievable
 achieve
 achieved
@@ -244,7 +242,6 @@ activity
 actor
 actors
 acts
-acttuttte
 actual
 actuality
 actualization
@@ -278,7 +275,6 @@ addressing
 adds
 adequate
 adequately
-I'D HAVE
 adhd
 adhere
 adhesives
@@ -334,7 +330,6 @@ advantages
 adventure
 adventurer
 adventures
-adventures/
 adventurous
 adversary
 adverse
@@ -367,14 +362,13 @@ affecting
 affection
 affects
 affidavits
-affili-
 affiliate
+affiliated
 affirmations
 affix
 afford
 affordable
 afghanistan
-afproaches
 afraid
 africa
 african
@@ -399,7 +393,6 @@ agency
 agency's
 agenda
 agendas
-AGENCY
 agent
 agents
 ages
@@ -424,7 +417,6 @@ agreeing
 agreement
 agreements
 agrees
-agressive
 ah
 ah-wooo
 aha
@@ -472,7 +464,6 @@ aisle
 aisles
 ait
 aiti
-analysis
 aj
 al
 alamo
@@ -890,8 +881,6 @@ apqp
 apricot
 april
 apron
-apropriate
-approval
 aptitude
 aquarium
 aquariums
@@ -1189,7 +1178,6 @@ authorize
 authorized
 authorizing
 authors
-authortzed
 auto
 auto-
 auto-petter
@@ -1214,7 +1202,6 @@ autonomy
 autopay
 autopsy
 autorize
-autorized
 autumn
 auxiliary
 avacado
@@ -1275,6 +1262,7 @@ aye-aye
 aye-yi-
 ayowaa
 b
+b'
 b'tang
 b-a-a-a-d
 b-budget
@@ -1343,7 +1331,6 @@ baffled
 baffling
 bag
 bag-losing
-bage
 bagel
 bagels
 baggage
@@ -1864,7 +1851,6 @@ blissful
 blister
 blitzer
 blizzards
-bllnk
 bloated
 bloatware
 blob
@@ -2241,7 +2227,6 @@ broadening
 broadens
 broadway
 broccoli
-broccoli
 brochure
 brochures
 brokaw
@@ -2250,13 +2235,11 @@ broken
 broker
 brokerage
 brokers
-BROWSER
 brolly
 bronchitis
 bronco
 broom
 broomstick
-bror
 brother
 brothers
 brought
@@ -2314,7 +2297,7 @@ buddies
 buddy
 budger
 budget
-budgetand
+budget and
 budgeted
 budgeting
 budgets
@@ -2390,7 +2373,6 @@ bungler
 bungling
 bunion-having
 bunions
-bunk
 bunnies
 bunny
 buns
@@ -2435,7 +2417,6 @@ bush's
 bushel
 bushels
 bushes
-busi-
 busier
 busiest
 business
@@ -2482,7 +2463,6 @@ buyers
 buying
 buyout
 buys
-buzle
 buzz
 buzzards
 buzzflawed
@@ -2555,7 +2535,6 @@ calculating
 calculation
 calculations
 calculator
-call me 
 calendar
 calendars
 calf
@@ -2576,7 +2555,6 @@ calm
 calms
 calorie
 calories
-(also
 calvin
 cam
 camaraderie
@@ -2604,7 +2582,6 @@ canada
 canadian
 canadians
 canal
-canany
 canaries
 canary
 cancel
@@ -2615,7 +2592,6 @@ cancelled
 cancelling
 cancels
 cancer
-canci
 candid
 candidacy
 candidate
@@ -2788,7 +2764,6 @@ catches
 catchier
 catching
 catchy
-categor
 categories
 category
 catered
@@ -2797,7 +2772,6 @@ catering
 caterpillar
 catheter
 cathy
-cating
 cation
 catness
 catnip
@@ -2973,7 +2947,6 @@ chatt
 chatter
 chatting
 chatty
-CHECK!
 chd
 cheap
 cheapen
@@ -3237,7 +3210,6 @@ clerical
 clerk
 clever
 cleverly
-CLICKETY
 clicctc
 cliches
 clichs
@@ -3342,7 +3314,6 @@ clutter
 cluttered
 cluttermeleon
 clyde
-cmal
 cmmi
 cmon
 cms
@@ -3402,7 +3373,6 @@ coherent
 coil
 coil-like
 coin
-coinci
 coincidence
 coincidences
 coincidentally
@@ -3531,7 +3501,6 @@ commodity
 common
 commudi
 commun
-communi
 communicate
 communicated
 communicates
@@ -3649,7 +3618,6 @@ composition
 compost
 compound
 compounded
-compreend
 comprehend
 comprehension
 comprehensive
@@ -3794,7 +3762,7 @@ consolidate
 consolidating
 consonants
 consortium
-conspic-
+conspicuously
 conspiracy
 constant
 constantly
@@ -4020,7 +3988,6 @@ costs
 costume
 costumes
 cotton
-cotttac
 couch
 cough
 cough-
@@ -4028,7 +3995,6 @@ coughed
 coughing
 could
 couldn't
-COULD
 council
 counsel
 counseling
@@ -4316,7 +4282,6 @@ cuddling
 cue
 cues
 cuh-oh
-cuitmo
 culinary
 culority
 culottes
@@ -4493,7 +4458,6 @@ databases
 date
 date-a-
 dated
-datee
 dates
 dating
 dation
@@ -4537,7 +4501,6 @@ dead-end
 dead-ender
 deadbeat
 deadbeats
-deadl
 deadline
 deadlines
 deadly
@@ -4802,7 +4765,6 @@ demotivated
 demotivating
 demotivational
 den
-dences
 deniability
 denial
 denied
@@ -4828,7 +4790,6 @@ deodorant
 deong
 depardieu
 departed
-departme
 department
 department's
 department-
@@ -4952,7 +4913,6 @@ determination
 determine
 determined
 determines
-detoey
 detonate
 detonator
 detours
@@ -7727,7 +7687,6 @@ gap
 gaping
 gapped
 gaps
-gar
 gara
 garage
 garages
@@ -8587,6 +8546,7 @@ hea
 head
 head'
 head-
+head-achey
 head-bobbing
 head-nodding
 headache
@@ -8803,7 +8763,6 @@ highly
 highness
 highrise
 highway
-hihattt's
 hijack
 hijacked
 hijacking
@@ -8971,7 +8930,6 @@ hoping
 hopped
 hopper
 hopping
-hor
 horde
 hordes
 horizon
@@ -9417,7 +9375,6 @@ inadvertently
 inag
 inane
 inanimate
-inappropriate
 inappropriate
 inate
 inattentive
@@ -10011,7 +9968,6 @@ itor's
 its
 itself
 itty
-itue
 itwas
 ity
 iv
@@ -12049,7 +12005,6 @@ moreof
 moreover
 morgan
 morgue
-morly
 morning
 moron
 moronic
@@ -12271,7 +12226,7 @@ mvi
 mvp
 mwa
 mwab
-mwgq3a
+mwpg
 mxlnt
 my
 mycouch
@@ -12590,7 +12545,6 @@ noises
 noisier
 noisy
 nol
-nology
 nom
 nominal
 nominate
@@ -15022,9 +14976,8 @@ r
 r-o-o-und
 r-r-ing
 r-r-ring
-r-u-v-u-n
+r-u-u-u-n
 r3
-ra
 raargh
 rabbit
 rabbits
@@ -15153,7 +15106,6 @@ rationalizer
 rationalizing
 rationally
 rats
-ratse
 ratted
 rattle
 rattling
@@ -15168,7 +15120,6 @@ raymond
 razor
 razor-sharp
 rbf
-rbove
 rc
 rdp
 rds
@@ -15209,7 +15160,6 @@ reagan
 real
 real-time
 real-world
-reali-
 realignment
 realism
 realistic
@@ -16128,7 +16078,6 @@ rrumble
 rsum
 rsume
 rsumes
-RESUMES
 rub
 rubbed
 rubber
@@ -16163,7 +16112,6 @@ ruler
 rulers
 rules
 ruling
-rumber-
 rummage
 rummaging
 rumor
@@ -18006,7 +17954,6 @@ stew
 steward
 stghten
 sth
-stic
 stick
 stick-thing
 sticker
@@ -18720,7 +18667,6 @@ tasteless
 tastes
 tasting
 tasty
-tatc
 tation
 tations
 tators
@@ -18749,7 +18695,6 @@ tazmanian
 tbot
 tc
 tcp/ip
-tcuen
 te
 tea
 teach
@@ -18984,7 +18929,6 @@ theoretical
 theoretically
 theories
 theory
-ther
 therapeutic
 therapist
 therapists
@@ -19014,7 +18958,6 @@ they've
 theyd
 theyll
 theyre
-theyve
 thfd
 thhh
 thic
@@ -19546,7 +19489,6 @@ trash-
 trash-talk
 trash-talking
 trashercise
-trats
 trauma
 traumatic
 travel
@@ -19941,6 +19883,7 @@ undefined
 undependable
 under
 under-
+under-communicating
 under-informed
 underachiever
 underachievers
@@ -20340,7 +20283,6 @@ uzi
 v
 v-1
 v-neck
-v/
 vac
 vaca
 vacancy
@@ -20654,7 +20596,6 @@ voting
 vouch
 voucher
 vouchers
-vously
 vow
 vowed
 vowels
@@ -21440,7 +21381,6 @@ wuhk
 wulf
 wultumino
 wump
-wump/
 wuss
 wusses
 wusss
@@ -21502,7 +21442,6 @@ yapping
 yard
 yards
 yarn
-yau
 yawn
 yay
 ye
