@@ -920,7 +920,6 @@ argue
 argued
 arguing
 argument
-argumenti
 arguments
 arit
 ark
@@ -937,7 +936,6 @@ armrests
 arms
 army
 arnold
-arolit
 aroma
 aromeo
 around
@@ -1346,7 +1344,7 @@ bair
 bait
 bait-and
 bait-and-switch
-bait-lube-
+bait-lube-and-switch
 bake
 bake-off
 baked
@@ -2253,7 +2251,6 @@ browsed
 browser
 brr-r-r
 brraaap
-brring
 brroll
 bruce
 bruh
@@ -2297,7 +2294,6 @@ buddies
 buddy
 budger
 budget
-budget and
 budgeted
 budgeting
 budgets
@@ -2381,7 +2377,6 @@ burden
 burdened
 burdensome
 bureau
-bureaucrach
 bureaucracy
 bureaucrat
 burg
@@ -2498,7 +2493,6 @@ c-cc-colo
 c-level
 c-r-i-p-to
 c23
-ca
 ca-a-an
 cab
 cabana
@@ -2802,7 +2796,6 @@ cc
 cd
 cd-rom
 cds
-ced
 cedar-flavored
 ceee
 ceiling
@@ -2862,7 +2855,6 @@ cervically
 cesspool
 cetera
 cfo
-ch
 cha
 cha-
 cha-ching
@@ -2942,7 +2934,6 @@ chastise
 chat
 chatbot
 chatgpt
-chaton
 chatt
 chatter
 chatting
@@ -3112,7 +3103,6 @@ cigarette
 cigarettes
 cigars
 cilantro
-cilitaliato
 cinammon
 cindy
 cing
@@ -4975,7 +4965,6 @@ diary
 dic
 dick
 dickens
-dict
 dicta
 dictator
 dictionary
@@ -5305,7 +5294,6 @@ distrust
 distrusting
 disturb
 disturbances
-disturbe
 disturbed
 disturbing
 disturbingly
@@ -5752,7 +5740,7 @@ dwarves
 dweeb
 dweebs
 dwell
-dwellers
+dwellers'
 dwinkelizer
 dworkin's
 dx
@@ -5851,7 +5839,7 @@ economists
 economy
 ecosystem
 ecru
-ecstast
+ecstasty
 ecstasy
 ecstatic
 ectoplasm
@@ -6123,8 +6111,6 @@ endpoint
 ends
 endure
 ened
-eneeled
-enem
 enemies
 enemy
 enemy's
@@ -6349,7 +6335,6 @@ ethnic
 ethnicity
 etiquette
 eugene
-eundikaniswalynia-
 eunuch
 eunuchs
 euphemisms
@@ -6611,8 +6596,8 @@ exterminator
 external
 extinct
 extinction
-extinguish-
 extinguished
+extinguisher
 extortion
 extra
 extra-brittle
@@ -6712,7 +6697,6 @@ faithful
 fake
 faked
 faking
-fal
 falafel
 falcon
 fall
@@ -7977,7 +7961,6 @@ godzilla
 goes
 goggles
 gogh
-goi
 goin'
 going
 goink
@@ -8794,6 +8777,7 @@ hires
 hiring
 his
 his-
+hisss
 hissss
 hissy
 historical
@@ -9137,7 +9121,6 @@ i'd
 i'll
 i'll'
 i'llbe
-i'llegal
 i'llget
 i'lltell
 i'llyank
@@ -9626,7 +9609,6 @@ innovator
 innow
 innuendos
 inoculate
-inolue
 input
 inputs
 inquisitive
@@ -9977,7 +9959,6 @@ ivory
 ivy
 ivy-
 iwas
-iwon
 iwork
 ixpah
 ixpu
@@ -10159,7 +10140,6 @@ junior'
 junk
 junky
 junkyard
-junl
 juror
 jurors
 jury
@@ -10350,7 +10330,7 @@ kremlin
 kris
 kronos
 kruger
-kruphnehdahphew-
+kruphnehdahphew-eundikaniswalynia-phorganopop
 kryp-
 kryptonite
 kudos
@@ -10628,7 +10608,6 @@ leotard
 leprechaun
 leprechauns
 lequals
-lert
 les
 less
 less-
@@ -11076,7 +11055,6 @@ macaroni-
 mace
 machina
 machine
-machineo
 machines
 macho
 macintosh
@@ -11660,7 +11638,6 @@ mileage
 miles
 milestone
 milestones
-mileta
 military
 military-grade
 milk
@@ -12231,7 +12208,6 @@ mxlnt
 my
 mycouch
 myers-
-myes
 myron
 myself
 myspace
@@ -12378,7 +12354,6 @@ negotiations
 negotiator
 negotiators
 nei
-neig
 neighbor
 neighbor's
 neighborhood
@@ -12978,6 +12953,7 @@ ooh-ooh
 ooh-waa-waa
 ooh-wah
 ooh-ya
+ooh-yah
 ookay
 oomp
 ooogah
@@ -13174,7 +13150,6 @@ outline
 outlined
 outlive
 outlook
-outn
 outnumber
 outnumbered
 outplacement
@@ -13781,7 +13756,6 @@ petted
 petting
 pffft
 pfft
-pfople
 pfzeeeet
 ph
 phantom
@@ -13838,7 +13812,6 @@ phonies
 phony
 phoot
 phor
-phorganopop
 phospher
 photo
 photo-
@@ -16178,7 +16151,6 @@ sailing
 saint
 sake
 saket
-sal
 salad
 salamander
 salar
@@ -16244,7 +16216,6 @@ sarcastic
 sare
 sartorial
 sartune
-sary
 sasquatch
 sassoon
 sat
@@ -17371,6 +17342,7 @@ so's
 so-
 so-called
 so-o-o
+so-o-o-o
 so-oo
 soak
 soaked
@@ -17401,7 +17373,6 @@ sock
 sockets
 socks
 socrates
-soctorath
 sod
 soda
 sodas
@@ -17650,7 +17621,6 @@ split
 splitsh
 sploit
 sploosh
-sploosh8
 splunk
 splur
 spock
@@ -18958,7 +18928,6 @@ they've
 theyd
 theyll
 theyre
-thfd
 thhh
 thic
 thick
@@ -19629,7 +19598,6 @@ tt
 tter
 ttom
 ttp
-tuate
 tub
 tubbing
 tubby
@@ -19638,7 +19606,6 @@ tuberculosis
 tubes
 tubs
 tubular
-tuc
 tuck
 tucked
 tucks
@@ -19666,7 +19633,6 @@ tuo
 tupac
 tupperware
 tups
-tur
 turban
 turbo
 turbo-flexing
@@ -19781,14 +19747,12 @@ tyrannosaurus
 tyranny
 tyrant
 u
-u-1
 u-turn
 uality
 uber
 uberize
 ucranium
 uem
-uerenus
 ufo
 ufos
 ufr
@@ -20068,7 +20032,7 @@ unmistakable
 unmotivated
 unnamed
 unnatural
-unnece-
+unnecesary
 unnecessarily
 unnecessary
 unnoticed
@@ -20611,8 +20575,6 @@ vulcans
 vulnerabilities
 vulnerable
 w
-w-1
-w-al
 wa-ha
 wa-ha-ha
 wa-ha-ya-yi
@@ -20796,6 +20758,7 @@ ways
 wazzup
 wd-40
 wdg
+wdnw
 we
 we'd
 we'll
@@ -21230,7 +21193,6 @@ wondering
 wonders
 wong
 wont
-wonw
 woo
 woo-
 woo-hoo
@@ -21379,7 +21341,6 @@ wuh
 wuhap
 wuhk
 wulf
-wultumino
 wump
 wuss
 wusses
@@ -21526,13 +21487,11 @@ you'
 you'd
 you'll
 you're
-you'rea
 you'rein
 you'rf
 you've
 you-
 you-can-eat
-youcan
 youd
 youhate
 youll
