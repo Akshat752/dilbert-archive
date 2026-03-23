@@ -388,6 +388,7 @@ against
 age
 aged
 ageism
+agen
 agency
 agency's
 agenda
@@ -466,7 +467,6 @@ aiti
 aj
 al
 alamo
-alams
 alan
 alarm
 alarmed
@@ -622,6 +622,7 @@ ammunition
 amnesia
 amnesty
 amo
+amoeba
 among
 amongst
 amorphous
@@ -905,7 +906,6 @@ archived
 archives
 archrival
 arctic
-ard
 are
 area
 areas
@@ -2736,6 +2736,7 @@ casualty
 cat
 cat's
 cat-5
+cat5
 cat6
 catalog
 catalogued
@@ -4824,7 +4825,6 @@ describe
 described
 describes
 describing
-descrip
 description
 descriptions
 descriptive
@@ -5001,7 +5001,6 @@ digits
 dignified
 dignity
 dijon
-dil
 dil-
 dil-boy
 dil-butt
@@ -5658,6 +5657,7 @@ dryer
 drywall
 dsn
 du
+du-u-u-de
 dual
 duals
 dubo
@@ -5727,7 +5727,6 @@ dutch
 duthcourages
 duties
 duty
-duuu-de
 dvd
 dvr
 dwarves
@@ -8287,7 +8286,6 @@ hadn't
 hadron
 hafta
 hag
-hagen
 haha
 haha-
 hahaha
@@ -9128,7 +9126,6 @@ ibm's
 ically
 ican
 icate
-iccttanic
 ice
 ice-cold
 ick
@@ -9170,7 +9167,6 @@ idiotic
 idiots
 iditarod
 idle
-idon't
 if
 iffy
 ifi
@@ -10132,7 +10128,6 @@ junkyard
 juror
 jurors
 jury
-jus
 just
 justextra
 justice
@@ -11119,7 +11114,6 @@ makeup
 makf
 making
 makinga
-mal
 male
 male-
 males
@@ -11183,7 +11177,6 @@ mankind
 manliness
 manly
 mann
-mannatady
 manned
 mannequin
 mannequins
@@ -12843,7 +12836,6 @@ oil-producing
 oiled
 oils
 oily
-oing
 oink
 ok
 okay
@@ -13637,7 +13629,6 @@ peppered
 peppers
 pepsi
 per
-perag
 perceive
 perceived
 percent
@@ -13789,7 +13780,6 @@ phishing
 phleem
 phlegm
 phlimsk
-phlupi
 phone
 phone's
 phones
@@ -13829,6 +13819,7 @@ physicist
 physics
 physiological
 phzeem
+phzup
 pi
 pianist
 piano
@@ -13923,7 +13914,6 @@ piranha
 pirate
 pirated
 pirates
-pis
 pishkin
 pistol
 pit
@@ -18865,13 +18855,11 @@ the-job
 theater
 theatre
 theckbook
-thedical
 theft
 thefts
 thegood
 their
 theirs
-thelk
 thelma
 them
 theme
@@ -19595,7 +19583,6 @@ tucked
 tucks
 tue
 tues
-tues-
 tuesday
 tuf
 tufts
@@ -21337,7 +21324,6 @@ x
 x-ray
 x-rays
 x4hb
-x7
 x7qb
 xbox
 xeno's
