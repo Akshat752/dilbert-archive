@@ -250,7 +250,6 @@ actuator
 acupuncture
 acute
 ad
-ada
 adam's
 adams
 adapted
@@ -618,7 +617,6 @@ american
 amethyst
 ami
 amicably
-amme
 ammonia
 ammunition
 amnesia
@@ -806,6 +804,7 @@ anywhere
 anza
 aoe
 aol
+aontributor
 aorta
 apart
 apartment
@@ -1487,7 +1486,6 @@ bazookas
 bbu
 bbus
 be
-bea
 beach
 bead
 beak
@@ -1626,7 +1624,6 @@ berlin
 bermuda
 bernhard
 bernie
-beroke
 berries
 berry
 berserk
@@ -3084,7 +3081,6 @@ chronic
 chronically
 chronicle
 chubby
-chuc
 chuck
 chuck's
 chug
@@ -4969,7 +4965,6 @@ dicta
 dictator
 dictionary
 did
-didens
 didn
 didn't
 didn'tuse
@@ -4994,7 +4989,6 @@ dig
 digest
 digesting
 digestive
-diggertnt
 digging
 digisexual
 digit
@@ -5820,7 +5814,6 @@ eating
 eating-flea-hotel
 eats
 ebay
-ebea
 eben
 ebert
 ebida
@@ -6395,7 +6388,6 @@ evp
 ew
 ewap
 ewhat
-ews
 eww
 ex
 ex-
@@ -6632,7 +6624,6 @@ f
 f-4
 f-e-e-e-ling
 f1
-fa
 fable
 fabric
 fabric-
@@ -7331,7 +7322,6 @@ forgiven
 forgiveness
 forgot
 forgotten
-forit
 fork
 forklift
 forks
@@ -7734,7 +7724,6 @@ geek
 geekface
 geeks
 geeky
-gees
 geeve
 geez
 gel
@@ -11019,7 +11008,6 @@ lung
 lunge
 lunged
 lungs
-lunteern
 lurch
 lure
 lures
@@ -11284,7 +11272,6 @@ marveling
 mary
 mary's
 mas
-masaurs
 mascot
 masculinity
 mash
@@ -11573,7 +11560,6 @@ mezzanine
 mfu1
 mfu2
 mgb
-mh
 miasma
 mic
 mice
@@ -11683,6 +11669,7 @@ mindy
 mindy's
 mine
 mine's
+mined
 minefield
 miner
 mineral
@@ -12224,6 +12211,7 @@ n
 n'
 n's
 n-n-no
+n/nuh
 nagging
 nah
 nail
@@ -12928,7 +12916,6 @@ onemore
 ones
 oneself
 onetime
-onf
 ongoing
 onion
 onions
@@ -13094,7 +13081,7 @@ orthopedic
 osama
 osbornes
 osbourne
-oscan
+oscar
 oscopy
 ose
 osmond's
@@ -13279,7 +13266,6 @@ ownership
 owning
 owns
 ox
-oxley
 oxygen
 oxytocin
 oyster
@@ -14255,7 +14241,6 @@ posters
 posthumous
 posting
 postings
-postion
 postmortem
 postpone
 postponed
@@ -14826,7 +14811,6 @@ pushy
 pustules
 put
 puta
-puter
 putit
 putrid
 puts
@@ -16210,7 +16194,7 @@ sapiens
 sapio-
 saps
 sarah
-sarbanes-
+sarbanes-oxley
 sarcasm
 sarcastic
 sare
@@ -20396,7 +20380,6 @@ veteran
 veterinarian
 veto
 vetos
-vew
 vewy
 vexing
 vhs
@@ -21476,7 +21459,6 @@ yoga
 yogenic
 yogurt
 yone
-yone's
 yoo
 yoo-hoo
 yorgi
