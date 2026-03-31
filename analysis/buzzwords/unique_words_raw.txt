@@ -644,7 +644,7 @@ amy
 an
 anach
 anal
-anal-
+anal-retentive
 analog
 analogies
 analogy
@@ -723,7 +723,6 @@ annoys
 annual
 annualized
 annually
-annuave
 annuities
 annuity
 ano
@@ -1018,7 +1017,6 @@ assemble
 assembled
 assembling
 assembly
-asser
 assert
 assertive
 assess
@@ -1627,7 +1625,6 @@ bernie
 berries
 berry
 berserk
-bert
 bertcoin
 bertcoins
 besht
@@ -4396,7 +4393,6 @@ damned
 damp
 dampening
 dampers
-damus
 dan
 dance
 dance-fight
@@ -4657,7 +4653,6 @@ defriending
 defrost
 defy
 degauss
-degbert's
 degenerated
 degrade
 degraded
@@ -4714,7 +4709,6 @@ delusion
 delusional
 delusions
 deluxe
-dem-
 demagogue
 demand
 demanded
@@ -6385,7 +6379,6 @@ evolves
 evolving
 evp
 ew
-ewap
 ewhat
 eww
 ex
@@ -7118,7 +7111,6 @@ flexitate
 flextime
 flick
 flicking
-flicted
 flier
 flies
 flight
@@ -7400,7 +7392,7 @@ france
 francis
 francisco
 frank
-frankensteins
+frankenstein's
 franklin
 frankly
 frapajama
@@ -7598,6 +7590,7 @@ fuzz
 fuzzy
 fven
 fwa
+fwap
 fyi
 fzeeet
 g
@@ -7691,6 +7684,7 @@ gaseous
 gaslight
 gasoline
 gasp
+gaspas
 gaspine
 gastrointestinal
 gate
@@ -7717,7 +7711,6 @@ gazillion
 gazpacho
 gber
 gee
-geeee
 geeeeed
 geek
 geekface
@@ -8286,6 +8279,7 @@ hadn't
 hadron
 hafta
 hag
+hah
 haha
 haha-
 hahaha
@@ -8511,7 +8505,6 @@ he
 he'd
 he'll
 he's
-he3
 hea
 head
 head'
@@ -8882,6 +8875,7 @@ hoo-ha
 hoo-ha-
 hoo-ha-ha
 hoo-haha
+hoo-hoo-hee-ha
 hoo-wah-
 hood
 hoof
@@ -10168,7 +10162,6 @@ keepers
 keepin'
 keeping
 keeps
-keer
 keg
 keith
 kelly
@@ -11816,6 +11809,7 @@ mmm-
 mmm-ph
 mmmm
 mmmmm
+mmmmmmm
 mmmmmmmmm-
 mmn
 mmph
@@ -12204,7 +12198,6 @@ n
 n'
 n's
 n-n-no
-n/nuh
 nagging
 nah
 nail
@@ -12460,7 +12453,6 @@ nitpicker
 nitpicking
 nitwit
 nitwits
-nn
 no
 no-
 no-baby
@@ -12603,7 +12595,7 @@ nosey
 nosing
 nosis
 nostalgic
-nostra-
+nostradamus
 nostradogbert
 nostril
 nostrildogmas
@@ -12666,7 +12658,6 @@ numbered
 numbers
 numbing
 numbs
-nump
 nun
 nunnery
 nuns
@@ -12915,7 +12906,6 @@ online
 only
 onomatopoeia
 onset
-onstration
 ontario
 onto
 oo'
@@ -14282,7 +14272,6 @@ practice
 practiced
 practices
 practicing
-pradi
 pragmatist
 prairie
 praise
@@ -16506,7 +16495,7 @@ self-governing
 self-help
 self-identify
 self-image
-self-in-
+self-in-flicted
 self-inflicted
 self-interest
 self-loathing
@@ -16905,6 +16894,7 @@ sign-off
 sign-up
 signal
 signal-to-
+signal-to-noise
 signaling
 signals
 signature
@@ -16976,7 +16966,6 @@ sinning
 sins
 sinuses
 sion
-sional
 sions
 sip
 siphoned
@@ -19011,7 +19000,7 @@ thumb
 thumbs
 thumbs-up
 thump
-thumpa
+thumpa-
 thunder
 thundering
 thundershirt
@@ -19129,7 +19118,6 @@ tissue
 tissues
 tisunday
 tit
-titair
 titanium
 tithing
 titi
@@ -19377,7 +19365,7 @@ tranquilize
 tranquilizer
 tranquillity
 trans
-trans-dimen-
+trans-dimen-sional
 trans-domain
 transactional
 transactions
@@ -20573,7 +20561,7 @@ wagi
 wagner
 wah
 wah-
-wah-ah-
+wah-ah-geeee
 wah-wah
 wahgoo
 wahh
@@ -21101,7 +21089,6 @@ wishing
 wit
 witch
 witch's
-witch-
 witch-hunt
 witchcraft
 witches
@@ -21547,12 +21534,11 @@ zuckerberg
 zumph
 zygote
 zymed
-zz
-zz-
 zzeeep
 zzoop
 zzt
 zzz
+zzz-
 zzzz
 zzzz-
 zzzz-zzz
