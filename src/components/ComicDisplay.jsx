@@ -150,7 +150,7 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages, us
                     </svg>
                   </div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    Image could not be loaded
+                    Image could not be loaded. Try using the archived urls in settings.
                   </p>
                 </div>
               )
