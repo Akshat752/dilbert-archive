@@ -1,6 +1,6 @@
 import { useEffect, useCallback, useState } from 'react'
 
-function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages }) {
+function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages, useArchivedUrls}) {
   const [showTranscript, setShowTranscript] = useState(false)
   const [imageError, setImageError] = useState(false)
   const [isArchiveOrgError, setIsArchiveOrgError] = useState(false)
@@ -25,6 +25,13 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages }) 
       }
       // If no local image available, return empty string (will trigger error state)
       return ''
+    }
+    // console.log(useArchivedUrls)
+    if (!useArchivedUrls) {
+      return comicData.originalimageurl.replace(
+        /^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.+)$/,
+        '$1'
+      );
     }
     
     // When local images are disabled, use archive.org URL
@@ -128,7 +135,7 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages }) 
                     Image unavailable
                   </p>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    Sorry, archive.org appears to be down. The image cannot be loaded at this time.
+                    Unable to load images from Archive.org. Try loading them from the original syndicate from the settings menu.
                   </p>
                 </div>
               )

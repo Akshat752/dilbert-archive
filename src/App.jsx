@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { Routes, Route, Navigate, useNavigate, useParams, useLocation, Link } from 'react-router-dom'
 import SearchBar from './components/SearchBar'
 import DatePicker from './components/DatePicker'
@@ -22,6 +22,33 @@ function AppLayout({ children, currentPath }) {
     }
     return false
   })
+  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useArchivedUrls')
+      return saved === 'true'
+    }
+    return false
+  })
+  const initialUseLocalImages = useRef(null)
+  const initialUseArchivedUrls = useRef(null)
+
+  function settingsMenuToggle(isOpen) {
+    setIsSettingsOpen(isOpen)
+    if (isOpen) {
+      // Save values when modal opens
+      initialUseLocalImages.current = useLocalImages
+      initialUseArchivedUrls.current = useArchivedUrls
+    }
+    if (!isOpen) {
+      // Compare when modal closes
+      if (useLocalImages !== initialUseLocalImages.current || 
+          useArchivedUrls !== initialUseArchivedUrls.current) {
+        window.location.reload()
+        
+      }
+    }
+  }
+
   const navigate = useNavigate()
   const location = useLocation()
 
@@ -66,7 +93,7 @@ function AppLayout({ children, currentPath }) {
               </nav>
               <div className="flex items-center gap-2">
                 <button
-                  onClick={() => setIsSettingsOpen(true)}
+                  onClick={() => settingsMenuToggle(true)}
                   className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
                   aria-label="Open settings"
                   title="Settings"
@@ -91,9 +118,11 @@ function AppLayout({ children, currentPath }) {
       {/* Settings Modal */}
       <SettingsModal
         isOpen={isSettingsOpen}
-        onClose={() => setIsSettingsOpen(false)}
+        onClose={() => settingsMenuToggle(false)}
         useLocalImages={useLocalImages}
         setUseLocalImages={setUseLocalImages}
+        useArchivedUrls={useArchivedUrls}
+        setUseArchivedUrls={setUseArchivedUrls}
       />
 
       {/* Fixed Footer */}
@@ -148,6 +177,13 @@ function ComicsView() {
       return saved === 'true'
     }
     return false
+  })
+  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useArchivedUrls')
+      return saved === 'true'
+    }
+    return true
   })
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
 
@@ -828,6 +864,7 @@ function ComicsView() {
                   comicsData={comicsData}
                   comicsIndex={comicsIndex}
                   useLocalImages={useLocalImages}
+                  useArchivedUrls={useArchivedUrls}
                 />
               </div>
             </div>
@@ -907,9 +944,11 @@ function ComicsView() {
       {/* Settings Modal */}
       <SettingsModal
         isOpen={isSettingsOpen}
-        onClose={() => setIsSettingsOpen(false)}
+        onClose={() => settingsMenuToggle(false)}
         useLocalImages={useLocalImages}
         setUseLocalImages={setUseLocalImages}
+        useArchivedUrls={useArchivedUrls}
+        setUseArchivedUrls={setUseArchivedUrls}
       />
 
       {/* Background Loading Status */}
