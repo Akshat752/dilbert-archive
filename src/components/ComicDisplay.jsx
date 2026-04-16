@@ -36,13 +36,13 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages, us
     
     // When local images are disabled, use archive.org URL
     return comicData.originalimageurl || ''
-  }, [useLocalImages])
+  }, [useLocalImages,useArchivedUrls])
 
   // Reset error state when comic or image source changes
   useEffect(() => {
     setImageError(false)
     setIsArchiveOrgError(false)
-  }, [date, comic, useLocalImages])
+  }, [date, comic, useLocalImages,useArchivedUrls])
 
   // Preload adjacent images
   useEffect(() => {

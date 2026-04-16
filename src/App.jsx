@@ -13,40 +13,14 @@ import Article from './components/Article'
 import { getCachedIndex, cacheIndex, getCachedYear, cacheYear } from './utils/indexedDB'
 
 // Layout component that wraps all routes
-function AppLayout({ children, currentPath }) {
+function AppLayout({ children,  useLocalImages,
+  setUseLocalImages,
+  useArchivedUrls,
+  setUseArchivedUrls }) {
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
-  const [useLocalImages, setUseLocalImages] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useLocalImages')
-      return saved === 'true'
-    }
-    return false
-  })
-  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useArchivedUrls')
-      return saved === 'true'
-    }
-    return false
-  })
-  const initialUseLocalImages = useRef(null)
-  const initialUseArchivedUrls = useRef(null)
 
   function settingsMenuToggle(isOpen) {
     setIsSettingsOpen(isOpen)
-    if (isOpen) {
-      // Save values when modal opens
-      initialUseLocalImages.current = useLocalImages
-      initialUseArchivedUrls.current = useArchivedUrls
-    }
-    if (!isOpen) {
-      // Compare when modal closes
-      if (useLocalImages !== initialUseLocalImages.current || 
-          useArchivedUrls !== initialUseArchivedUrls.current) {
-        window.location.reload()
-        
-      }
-    }
   }
 
   const navigate = useNavigate()
@@ -149,7 +123,7 @@ function AppLayout({ children, currentPath }) {
 }
 
 // Comics viewer component (shared state)
-function ComicsView() {
+function ComicsView({ useLocalImages, useArchivedUrls }) {
   const navigate = useNavigate()
   const location = useLocation()
   const { date } = useParams()
@@ -171,20 +145,6 @@ function ComicsView() {
   const [backgroundLoadingYear, setBackgroundLoadingYear] = useState(null)
   const [backgroundLoadedCount, setBackgroundLoadedCount] = useState(0)
   const [backgroundTotalYears, setBackgroundTotalYears] = useState(0)
-  const [useLocalImages, setUseLocalImages] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useLocalImages')
-      return saved === 'true'
-    }
-    return false
-  })
-  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useArchivedUrls')
-      return saved === 'true'
-    }
-    return true
-  })
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
 
   const baseUrl = import.meta.env.BASE_URL
@@ -941,16 +901,6 @@ function ComicsView() {
           </div>
       ) : null}
 
-      {/* Settings Modal */}
-      <SettingsModal
-        isOpen={isSettingsOpen}
-        onClose={() => settingsMenuToggle(false)}
-        useLocalImages={useLocalImages}
-        setUseLocalImages={setUseLocalImages}
-        useArchivedUrls={useArchivedUrls}
-        setUseArchivedUrls={setUseArchivedUrls}
-      />
-
       {/* Background Loading Status */}
       {backgroundLoading && (
         <div className="fixed bottom-14 left-4 z-50 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[220px]">
@@ -1005,10 +955,40 @@ function ArticleRoute() {
 
 // Main App component with routing
 function App() {
+    const [useLocalImages, setUseLocalImages] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useLocalImages')
+      return saved === 'true'
+    }
+    return false
+  })
+
+  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useArchivedUrls')
+      return saved === 'true'
+    }
+    return false
+  })
+
   return (
     <Routes>
-      <Route path="/" element={<AppLayout><ComicsView /></AppLayout>} />
-      <Route path="/comic/:date" element={<AppLayout><ComicsView /></AppLayout>} />
+      <Route path="/" element={
+        <AppLayout 
+          useLocalImages={useLocalImages} 
+          setUseLocalImages={setUseLocalImages} 
+          useArchivedUrls={useArchivedUrls} 
+          setUseArchivedUrls={setUseArchivedUrls}>
+          <ComicsView useLocalImages={useLocalImages} useArchivedUrls={useArchivedUrls} />
+        </AppLayout>} />  
+      <Route path="/comic/:date" element={
+        <AppLayout 
+          useLocalImages={useLocalImages} 
+          setUseLocalImages={setUseLocalImages} 
+          useArchivedUrls={useArchivedUrls} 
+          setUseArchivedUrls={setUseArchivedUrls}>
+          <ComicsView useLocalImages={useLocalImages} useArchivedUrls={useArchivedUrls} />
+        </AppLayout>} />
       <Route path="/comic" element={<Navigate to="/" replace />} />
       <Route path="/articles" element={<AppLayout><ArticlesRoute /></AppLayout>} />
       <Route path="/articles/:articleId" element={<AppLayout><ArticleRoute /></AppLayout>} />
