@@ -6,6 +6,7 @@ import SearchResults from './components/SearchResults'
 import ComicDisplay from './components/ComicDisplay'
 import NavigationButtons from './components/NavigationButtons'
 import TranscriptPanel from './components/TranscriptPanel'
+import FavoritesPanel from './components/FavoritesPanel'
 import DarkModeToggle from './components/DarkModeToggle'
 import SettingsModal from './components/SettingsModal'
 import Blog from './components/Blog'
@@ -150,6 +151,16 @@ function ComicsView() {
     return false
   })
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
+
+  const [favorites, setFavorites] = useState(() => {
+
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('favorites')
+      return saved ? JSON.parse(saved) : ['2010-03-28','2005-05-17','2001-03-08','1995-06-12','2021-09-16'] 
+    }
+    return ['2010-03-28','2005-05-17', '2001-03-08', '1995-06-12','2021-09-16']
+
+  })
 
   const baseUrl = import.meta.env.BASE_URL
 
@@ -817,7 +828,7 @@ function ComicsView() {
 
   return (
     <>
-      {currentDate && currentComic ? (
+      {currentDate ? (
           <div className="flex flex-col lg:flex-row gap-6 w-full">
             {/* Left column - Comic (70%) */}
             <div className="w-full lg:flex-[7] min-w-0">
@@ -828,6 +839,8 @@ function ComicsView() {
                   comicsData={comicsData}
                   comicsIndex={comicsIndex}
                   useLocalImages={useLocalImages}
+                  favorites={favorites}
+                  setFavorites={setFavorites}
                 />
               </div>
             </div>
@@ -888,19 +901,22 @@ function ComicsView() {
                   )}
                 </div>
               ) : (
-                <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 p-4">
-                  <TranscriptPanel
-                    date={currentDate}
-                    comic={currentComic}
-                  />
-                </div>
+                    <>
+                    <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 p-4">
+                      <TranscriptPanel
+                        date={currentDate}
+                        comic={currentComic}
+                      />
+                    </div>
+                    <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg border border-gray-200 dark:border-gray-700 p-4">
+                      <FavoritesPanel 
+                        favorites={favorites}
+                        setFavorites={setFavorites}
+                      />
+                    </div>
+                  </>
               )}
             </div>
-          </div>
-        ) : currentDate ? (
-          <div className="text-center py-12">
-            <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-blue-600 dark:border-blue-400 mb-4"></div>
-            <p className="text-gray-600 dark:text-gray-400">Loading comic data...</p>
           </div>
       ) : null}
 
