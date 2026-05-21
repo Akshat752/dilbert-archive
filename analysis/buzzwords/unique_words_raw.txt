@@ -8,7 +8,6 @@ a-b
 a-half
 a-l-e
 a-lifetime
-aa
 aa-aa
 aaa
 aaaaaeeii
@@ -433,7 +432,6 @@ ai
 aid
 aieeeow
 ail
-ailt
 aim
 aimed
 aiming
@@ -560,7 +558,6 @@ almanac
 almanne
 almighty
 almost
-alo
 alone
 along
 aloof
@@ -883,6 +880,7 @@ apron
 aptitude
 aquarium
 aquariums
+aquire
 ar
 araaa
 arabii
@@ -1156,7 +1154,6 @@ augmented
 august
 auh-
 aunt
-aur
 aura
 austin
 australia
@@ -1277,6 +1274,7 @@ babbling
 babe
 babes
 babies
+babling
 baboon
 baboons
 baby
@@ -1387,7 +1385,6 @@ banishment
 banjo
 bank
 bank's
-bank-ouch
 banker
 bankers
 banking
@@ -1832,7 +1829,6 @@ blinding
 blindingly
 blindness
 blinds
-bling
 blink
 blinked
 blinking
@@ -2010,7 +2006,6 @@ boredom
 bores
 boring
 boringly
-bork
 born
 borna
 boron
@@ -2097,6 +2092,7 @@ bracket
 brad
 bradley
 bradley's
+brady
 brag
 braggar
 braggart
@@ -2537,7 +2533,6 @@ calling
 callit
 callme
 calls
-callthis
 calluses
 calm
 calms
@@ -3711,6 +3706,7 @@ congressional
 congressman
 congressmen
 congruence
+conley
 connect
 connected
 connecting
@@ -3790,7 +3786,7 @@ containment
 contains
 contemplating
 contempt
-conten-
+contendre
 content
 contentious
 contents
@@ -4409,8 +4405,8 @@ dangerous-looking
 dangerously
 dangling
 danville
-dao
 daps
+darby
 dare
 dares
 daring
@@ -5030,7 +5026,7 @@ din't
 dine
 diner
 ding
-dingdong
+ding-dong
 dinged
 dingle
 dingo
@@ -5480,7 +5476,6 @@ dot-com
 dotcom
 dots
 dotted
-dou
 double
 double-
 double-agent
@@ -5565,7 +5560,6 @@ drawers
 drawing
 drawings
 drawn
-dre
 dre-s
 dread
 dreaded
@@ -5911,13 +5905,13 @@ ekplum
 el
 elaborate
 elastic
+elboni
 elbonia
 elbonia's
 elbonian
 elbonian's
 elbonians
 elbonium
-elbont
 elbow
 elbow-high
 elbows
@@ -5974,7 +5968,6 @@ elon
 elrod
 else
 else's
-elsed
 elsewhere
 elves
 elvis
@@ -6256,7 +6249,6 @@ erment
 ernie
 eroding
 erp
-err
 errand
 errands
 error
@@ -6306,7 +6298,6 @@ estro
 et
 etcetera
 etch-a-sketch
-etchy
 eternal
 eternity
 ethel
@@ -6336,6 +6327,7 @@ evaluates
 evaluating
 evaluation
 evaluations
+evans
 evaporated
 evaporates
 eve
@@ -7005,6 +6997,7 @@ fish-faced
 fishbone
 fishing
 fishlips
+fishy
 fissile
 fist
 fisticuffs
@@ -7533,8 +7526,8 @@ full-time
 fullest
 fully
 fum
-fume
 fumes
+fump
 fun
 fun-loving
 function
@@ -7588,7 +7581,6 @@ futuristic
 futurists
 fuzz
 fuzzy
-fven
 fwa
 fwap
 fyi
@@ -7666,7 +7658,6 @@ garden
 gardener
 gardening
 garfield
-garfield'
 garfield's
 gargantuan
 gargle
@@ -8112,6 +8103,7 @@ greeting
 greetings
 greets
 gref
+greg
 grenade
 grep
 gret
@@ -8220,7 +8212,6 @@ gulp
 gulpi
 gum
 gun
-gund
 gung
 gunkyard
 gunned
@@ -8313,6 +8304,7 @@ half-hour
 half-human
 half-machine
 half-page
+half-priced
 half-robot
 half-size
 halfling
@@ -8974,6 +8966,7 @@ html
 html5
 http
 hu-
+hu-ha-ha
 hu-ha-ya-ya
 hu-rah
 hub
@@ -9241,7 +9234,6 @@ immovable
 immune
 immunity
 immutable
-imn
 impact
 impacts
 impaired
@@ -10050,6 +10042,7 @@ john
 johnny
 johnson
 johnsons
+johnston
 joie
 join
 joined
@@ -10287,7 +10280,6 @@ know-i'll
 know-nothing
 know-what
 knowhow
-knowi
 knowing
 knowledge
 knowledgeable
@@ -10548,7 +10540,6 @@ leftovers
 leftto
 lefty
 leg
-lega
 legacy
 legal
 legalese
@@ -10556,6 +10547,7 @@ legally
 legalsize
 legend
 legendary
+legendhas
 legends
 legged
 legislation
@@ -10607,7 +10599,6 @@ letter
 letters
 letting
 lettuce
-letus
 level
 level-conscious
 leveled
@@ -10699,7 +10690,6 @@ likelihood
 likely
 likeness
 likes
-likethis
 likewise
 liking
 limb
@@ -10926,6 +10916,7 @@ loust
 lousy
 louvre
 love
+love-cherub
 loved
 lovely
 lover
@@ -10961,6 +10952,7 @@ lowly
 loyal
 loyalty
 ltke
+luann
 lube
 lubing
 lubricant
@@ -11014,6 +11006,7 @@ ly
 lye
 lyin'
 lying
+lynn
 lyrics
 lysol
 m
@@ -12139,7 +12132,6 @@ music
 musical
 musici
 musicians
-musin
 musk
 musketeer
 musketeers
@@ -12173,7 +12165,6 @@ muw
 muwa
 muwhahaha
 muzzle
-mvi
 mvp
 mwa
 mwab
@@ -12272,7 +12263,6 @@ navy
 nay
 nbc
 nda
-ne
 neal
 neanderthal
 neans
@@ -12683,7 +12673,9 @@ o'briens'
 o'clock
 o'dendron
 o'er
+o-o-o-okay
 o-o-oh
+o-o-okay
 o-word
 oaf
 oath
@@ -12810,9 +12802,7 @@ offshore
 offsite
 offspring
 ofluck
-ofpretending
 often
-ofthe
 ofus
 og
 ogling
@@ -12866,6 +12856,7 @@ on't
 on-one
 on-site
 on-the-back
+on-the-job
 onboard
 onboarding
 once
@@ -12931,7 +12922,6 @@ oookay
 oooooh
 ooouwaa
 ooowee
-oop
 oops
 oops-
 oopsie
@@ -13462,6 +13452,7 @@ past
 pasta
 paste
 pasted
+pastis
 pastries
 pastry
 pasty
@@ -13926,7 +13917,6 @@ pivoting
 pizkwat
 pizza
 pizzas
-plac
 place
 placebo
 placebos
@@ -14779,7 +14769,6 @@ pursue
 pursued
 pursues
 pursuit
-purt
 push
 push-back
 pushback
@@ -15086,7 +15075,6 @@ reader's
 readers
 readily
 reading
-reading'the
 readings
 readmy
 readout
@@ -15985,7 +15973,6 @@ round
 rounded
 rounding
 roundtable
-rouse
 route
 routed
 router
@@ -17362,7 +17349,6 @@ solitaire
 solitary
 solo
 solomon
-solost
 solution
 solutionist
 solutions
@@ -17375,7 +17361,6 @@ solving
 somali
 somalian
 some
-some-
 somebody
 somebody's
 somebutts
@@ -17869,6 +17854,7 @@ stellar
 stem
 stench
 step
+stephan
 stephen
 stepped
 stepping
@@ -18425,6 +18411,7 @@ swill
 swilling
 swim
 swimming
+swine
 swing
 swings
 swiped
@@ -18648,7 +18635,6 @@ teaming
 teammate
 teams
 teamwork
-tean
 tear
 tearaway
 tears
@@ -18840,7 +18826,6 @@ the
 the-
 the-box
 the-cob
-the-job
 theater
 theatre
 theckbook
@@ -18953,7 +18938,7 @@ thoughtful
 thoughts
 thousand
 thousands
-thp
+thp-p-p-p-p
 thread
 threat
 threaten
@@ -19721,7 +19706,7 @@ ugl
 uglier
 ugliest
 ugly
-ugly-
+ugly-looking
 uh
 uh-
 uh-huh
@@ -20181,7 +20166,6 @@ usernames
 users
 users'
 uses
-ush
 using
 usinga
 usto
@@ -20428,7 +20412,6 @@ violence
 violent
 violently
 violets
-vir
 viral
 virginia
 virility
@@ -20772,7 +20755,6 @@ wecan
 wed
 wedding
 weddings
-weddingse
 wedge
 wedged
 wedges
@@ -20780,7 +20762,6 @@ wedgie
 wedgied
 wedgies
 wedgiesizing
-wedgle
 wednes-
 wednesday
 wee
@@ -20850,7 +20831,6 @@ wenches
 wendel
 wendell
 wendy
-wenk
 went
 were
 weren
@@ -20880,6 +20860,7 @@ what
 what'd
 what'll
 what's
+what's-her-face
 what's-his-face
 what's-his-name
 what'san
@@ -21364,7 +21345,6 @@ yay
 ye
 yea
 yeah
-yeam
 yean
 year
 year's
@@ -21534,6 +21514,7 @@ zuckerberg
 zumph
 zygote
 zymed
+zzap
 zzeeep
 zzoop
 zzt
@@ -21546,3 +21527,4 @@ zzzzz
 zzzzzz
 zzzzzz-
 zzzzzzz
+zzzzzzzzt
