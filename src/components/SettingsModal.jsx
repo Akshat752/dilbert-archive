@@ -1,7 +1,8 @@
 import { useEffect } from 'react'
 import ImageSourceToggle from './ImageSourceToggle'
+import ArchivedUrlToggle from './ArchiveUrlToggle'
 
-function SettingsModal({ isOpen, onClose, useLocalImages, setUseLocalImages }) {
+function SettingsModal({ isOpen, onClose, useLocalImages, setUseLocalImages, useArchivedUrls, setUseArchivedUrls}) {
   // Close modal on Escape key
   useEffect(() => {
     const handleEscape = (e) => {
@@ -69,6 +70,11 @@ function SettingsModal({ isOpen, onClose, useLocalImages, setUseLocalImages }) {
                   Note: Local images are only available for localhost deployments. This option is intended for researchers who have saved or scraped all comics to a local folder on their computer.
                 </p>
               )}
+              <ArchivedUrlToggle value={useArchivedUrls} onChange={setUseArchivedUrls} />
+              <p className="mt-3 text-xs text-gray-500 dark:text-gray-400 italic">
+                Loading images from {useArchivedUrls ? "Archive.org" : "the Andrews McMeel Syndication"}
+              </p>
+                
             </div>
           </div>
         </div>
