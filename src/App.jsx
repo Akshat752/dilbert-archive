@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from 'react'
+import { useState, useEffect, useCallback, useRef } from 'react'
 import { Routes, Route, Navigate, useNavigate, useParams, useLocation, Link } from 'react-router-dom'
 import SearchBar from './components/SearchBar'
 import DatePicker from './components/DatePicker'
@@ -14,15 +14,16 @@ import Article from './components/Article'
 import { getCachedIndex, cacheIndex, getCachedYear, cacheYear } from './utils/indexedDB'
 
 // Layout component that wraps all routes
-function AppLayout({ children, currentPath }) {
+function AppLayout({ children,  useLocalImages,
+  setUseLocalImages,
+  useArchivedUrls,
+  setUseArchivedUrls }) {
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
-  const [useLocalImages, setUseLocalImages] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useLocalImages')
-      return saved === 'true'
-    }
-    return false
-  })
+
+  function settingsMenuToggle(isOpen) {
+    setIsSettingsOpen(isOpen)
+  }
+
   const navigate = useNavigate()
   const location = useLocation()
 
@@ -67,7 +68,7 @@ function AppLayout({ children, currentPath }) {
               </nav>
               <div className="flex items-center gap-2">
                 <button
-                  onClick={() => setIsSettingsOpen(true)}
+                  onClick={() => settingsMenuToggle(true)}
                   className="flex items-center gap-2 px-3 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
                   aria-label="Open settings"
                   title="Settings"
@@ -92,9 +93,11 @@ function AppLayout({ children, currentPath }) {
       {/* Settings Modal */}
       <SettingsModal
         isOpen={isSettingsOpen}
-        onClose={() => setIsSettingsOpen(false)}
+        onClose={() => settingsMenuToggle(false)}
         useLocalImages={useLocalImages}
         setUseLocalImages={setUseLocalImages}
+        useArchivedUrls={useArchivedUrls}
+        setUseArchivedUrls={setUseArchivedUrls}
       />
 
       {/* Fixed Footer */}
@@ -121,7 +124,7 @@ function AppLayout({ children, currentPath }) {
 }
 
 // Comics viewer component (shared state)
-function ComicsView() {
+function ComicsView({ useLocalImages, useArchivedUrls }) {
   const navigate = useNavigate()
   const location = useLocation()
   const { date } = useParams()
@@ -143,13 +146,6 @@ function ComicsView() {
   const [backgroundLoadingYear, setBackgroundLoadingYear] = useState(null)
   const [backgroundLoadedCount, setBackgroundLoadedCount] = useState(0)
   const [backgroundTotalYears, setBackgroundTotalYears] = useState(0)
-  const [useLocalImages, setUseLocalImages] = useState(() => {
-    if (typeof window !== 'undefined') {
-      const saved = localStorage.getItem('useLocalImages')
-      return saved === 'true'
-    }
-    return false
-  })
   const [isSettingsOpen, setIsSettingsOpen] = useState(false)
 
   const [favorites, setFavorites] = useState(() => {
@@ -841,6 +837,7 @@ function ComicsView() {
                   useLocalImages={useLocalImages}
                   favorites={favorites}
                   setFavorites={setFavorites}
+                  useArchivedUrls={useArchivedUrls}
                 />
               </div>
             </div>
@@ -920,14 +917,6 @@ function ComicsView() {
           </div>
       ) : null}
 
-      {/* Settings Modal */}
-      <SettingsModal
-        isOpen={isSettingsOpen}
-        onClose={() => setIsSettingsOpen(false)}
-        useLocalImages={useLocalImages}
-        setUseLocalImages={setUseLocalImages}
-      />
-
       {/* Background Loading Status */}
       {backgroundLoading && (
         <div className="fixed bottom-14 left-4 z-50 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 p-3 min-w-[220px]">
@@ -982,10 +971,40 @@ function ArticleRoute() {
 
 // Main App component with routing
 function App() {
+    const [useLocalImages, setUseLocalImages] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useLocalImages')
+      return saved === 'true'
+    }
+    return false
+  })
+
+  const [useArchivedUrls, setUseArchivedUrls] = useState(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('useArchivedUrls')
+      return saved === 'true'
+    }
+    return false
+  })
+
   return (
     <Routes>
-      <Route path="/" element={<AppLayout><ComicsView /></AppLayout>} />
-      <Route path="/comic/:date" element={<AppLayout><ComicsView /></AppLayout>} />
+      <Route path="/" element={
+        <AppLayout 
+          useLocalImages={useLocalImages} 
+          setUseLocalImages={setUseLocalImages} 
+          useArchivedUrls={useArchivedUrls} 
+          setUseArchivedUrls={setUseArchivedUrls}>
+          <ComicsView useLocalImages={useLocalImages} useArchivedUrls={useArchivedUrls} />
+        </AppLayout>} />  
+      <Route path="/comic/:date" element={
+        <AppLayout 
+          useLocalImages={useLocalImages} 
+          setUseLocalImages={setUseLocalImages} 
+          useArchivedUrls={useArchivedUrls} 
+          setUseArchivedUrls={setUseArchivedUrls}>
+          <ComicsView useLocalImages={useLocalImages} useArchivedUrls={useArchivedUrls} />
+        </AppLayout>} />
       <Route path="/comic" element={<Navigate to="/" replace />} />
       <Route path="/articles" element={<AppLayout><ArticlesRoute /></AppLayout>} />
       <Route path="/articles/:articleId" element={<AppLayout><ArticleRoute /></AppLayout>} />

@@ -1,6 +1,7 @@
 import { useEffect, useCallback, useState } from 'react'
 
-function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages,favorites,setFavorites }) {
+function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages, useArchivedUrls, favorites,setFavorites }) {
+  const [showTranscript, setShowTranscript] = useState(false)
   const [imageError, setImageError] = useState(false)
   const [isArchiveOrgError, setIsArchiveOrgError] = useState(false)
   
@@ -25,20 +26,24 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages,fav
       // If no local image available, return empty string (will trigger error state)
       return ''
     }
-    
-    // When local images are disabled, use archive.org URL
-    // return comicData.originalimageurl || ''
-    return comicData.originalimageurl.replace(
+    // console.log(useArchivedUrls)
+    if (!useArchivedUrls) {
+      return comicData.originalimageurl.replace(
         /^https?:\/\/web\.archive\.org\/web\/[^/]+\/(https?:\/\/.+)$/,
         '$1'
       );
-  }, [useLocalImages])
+    }
+    
+    // When local images are disabled, use archive.org URL
+    // return comicData.originalimageurl || ''
+    return comicData.originalimageurl || ''
+  }, [useLocalImages,useArchivedUrls])
 
   // Reset error state when comic or image source changes
   useEffect(() => {
     setImageError(false)
     setIsArchiveOrgError(false)
-  }, [date, comic, useLocalImages])
+  }, [date, comic, useLocalImages,useArchivedUrls])
 
   // Preload adjacent images
   useEffect(() => {
@@ -154,7 +159,7 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages,fav
                     Image unavailable
                   </p>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    Sorry, archive.org appears to be down. The image cannot be loaded at this time.
+                    Unable to load images from Archive.org. Try loading them from the original syndicate from the settings menu.
                   </p>
                 </div>
               )
@@ -169,7 +174,7 @@ function ComicDisplay({ date, comic, comicsData, comicsIndex, useLocalImages,fav
                     </svg>
                   </div>
                   <p className="text-sm text-gray-600 dark:text-gray-400">
-                    Image could not be loaded
+                    Image could not be loaded. Try using the archived urls in settings.
                   </p>
                 </div>
               )
