@@ -152,9 +152,9 @@ function ComicsView({ useLocalImages, useArchivedUrls }) {
 
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem('favorites')
-      return saved ? JSON.parse(saved) : ['2010-03-28','2005-05-17','2001-03-08','1995-06-12','2021-09-16'] 
+      return saved ? JSON.parse(saved) : [] 
     }
-    return ['2010-03-28','2005-05-17', '2001-03-08', '1995-06-12','2021-09-16']
+    return []
 
   })
 
